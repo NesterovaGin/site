@@ -1,0 +1,71 @@
+﻿/* CSS Document */
+#wrapper {
+	width:900px;
+	/* height: 100%; */
+	outline:1px solid red;
+	/* контур */
+	padding:10px;
+	/* Поля вокруг текста */
+	margin:0 auto;
+	/* поле */
+	
+	
+}
+#header {
+	height:80px;	
+	margin-bottom:15px;
+	/* отступа от нижнего края элемента */
+}
+#logo {
+    height:80px;
+	background-color:red;
+	margin-bottom:15px;
+	float: left;
+	width:150px;
+	/* ширина */
+}
+#top-menu {
+	height:80px;
+	background-color:green;
+	/* margin-bottom:15px; */
+	width:740px;
+	margin-left:160px;
+	
+	
+}
+
+#content {
+	height:780px;
+    margin-bottom:15px;
+	
+}
+
+#left-content{
+	height:780px;
+	background-color:rgba(255, 235, 59, 0.17);
+	/* margin-bottom:15px; */
+	float:left;
+	width:25%;
+
+}
+#main-content{
+	height:780px;
+	background-color:orange;
+	/* margin-bottom:15px; */
+	width:60%;
+	 float:left;
+}
+#right-content{
+	height:780px;
+	background-color:pink;
+	width:15%;
+	float:left
+	/* margin-bottom:15px; */
+}
+
+#footer{
+	height:20px;
+	background-color:gray;
+	/* margin-bottom:15px; */
+	
+}
